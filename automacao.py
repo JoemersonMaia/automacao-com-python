@@ -1,14 +1,13 @@
 import pyautogui
 import time
 
-pyautogui.PAUSE = 0.3
+pyautogui.PAUSE = 0.5
 
 
 pyautogui.press("win")
 pyautogui.write("edge")
 pyautogui.press("enter")
-
-
+time.sleep(3)
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
 time.sleep(3)
