@@ -7,6 +7,6 @@ O objetivo deste repositório é trazer projetos de automação utilizando Pytho
 
 Conteúdo atual
 
-cadastro_de_produtos (finalizado):
+cadastro de produtos (finalizado):
 
 O objetivo desta automação é criar um objeto que recebe uma planilha e executar tarefas manuais, como por exemplo automatizar o cadastro de produtos em um determninado sistema.
