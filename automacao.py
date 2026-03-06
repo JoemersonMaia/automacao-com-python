@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-pyautogui.PAUSE = 0.5
+pyautogui.PAUSE = 0.3
 
 
 pyautogui.press("win")
